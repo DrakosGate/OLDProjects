@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<level>
+	<child>
+		<type>human</type>
+		<position x="5.57" y="0.00" z="7.42"/>
+		<scale x="1.00" y="1.00" z="1.00"/>
+		<rotation x="0.00" y="2.79" z="0.00"/>
+		<colour r="1.0f" g="1.0f" b="1.0f" a="1.0f"/>
+		<light>
+			<type>point</type>
+		</light>
+	</child>
+	<child>
+		<type>tree</type>
+		<position x="-4.26" y="0.00" z="1.94"/>
+		<scale x="1.00" y="1.00" z="1.00"/>
+		<rotation x="0.00" y="251.00" z="0.00"/>
+		<colour r="1.0f" g="1.0f" b="1.0f" a="1.0f"/>
+	</child>
+	<child>
+		<type>PlayerCursor</type>
+		<position x="-29.49" y="0.00" z="133.91"/>
+		<scale x="-0.00" y="-0.00" z="-0.00"/>
+		<rotation x="0.00" y="2.90" z="0.00"/>
+		<colour r="1.0f" g="1.0f" b="1.0f" a="1.0f"/>
+		<light>
+			<type>point</type>
+		</light>
+	</child>
+	<child>
+		<type>tree</type>
+		<position x="2.84" y="0.00" z="4.18"/>
+		<scale x="1.00" y="1.00" z="1.00"/>
+		<rotation x="0.00" y="1.40" z="0.00"/>
+		<colour r="1.0f" g="1.0f" b="1.0f" a="1.0f"/>
+	</child>
+	<child>
+		<type>chicken</type>
+		<position x="-3.52" y="0.00" z="-4.07"/>
+		<scale x="1.00" y="1.00" z="1.00"/>
+		<rotation x="0.00" y="-0.78" z="0.00"/>
+		<colour r="1.0f" g="1.0f" b="1.0f" a="1.0f"/>
+	</child>
+	<child>
+		<type>lamppost</type>
+		<position x="-1.10" y="0.00" z="0.09"/>
+		<scale x="1.00" y="1.00" z="1.00"/>
+		<rotation x="0.00" y="217.00" z="0.00"/>
+		<colour r="1.0f" g="1.0f" b="1.0f" a="1.0f"/>
+	</child>
+	<child>
+		<type>lamppost</type>
+		<position x="1.16" y="0.00" z="-0.89"/>
+		<scale x="1.00" y="1.00" z="1.00"/>
+		<rotation x="0.00" y="184.00" z="0.00"/>
+		<colour r="1.0f" g="1.0f" b="1.0f" a="1.0f"/>
+	</child>
+	<child>
+		<type>lamppost</type>
+		<position x="4.24" y="0.00" z="-1.06"/>
+		<scale x="1.00" y="1.00" z="1.00"/>
+		<rotation x="0.00" y="155.00" z="0.00"/>
+		<colour r="1.0f" g="1.0f" b="1.0f" a="1.0f"/>
+	</child>
+	<child>
+		<type>PlayerCursor</type>
+		<position x="-197.55" y="0.00" z="3687.87"/>
+		<scale x="0.50" y="0.50" z="0.50"/>
+		<rotation x="0.00" y="2.83" z="0.00"/>
+		<colour r="1.0f" g="1.0f" b="1.0f" a="1.0f"/>
+		<light>
+			<type>point</type>
+		</light>
+	</child>
+	<child>
+		<type>tree</type>
+		<position x="0.32" y="0.00" z="-6.63"/>
+		<scale x="3.03" y="3.03" z="3.03"/>
+		<rotation x="0.00" y="121.00" z="0.00"/>
+		<colour r="1.0f" g="1.0f" b="1.0f" a="1.0f"/>
+	</child>
+</level>
+

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<level>
+	<child>
+		<type>human</type>
+		<position x="1.09" y="0.00" z="-3.37"/>
+		<scale x="1.00" y="1.00" z="1.00"/>
+		<rotation x="0.00" y="3.06" z="0.00"/>
+		<colour r="1.0f" g="1.0f" b="1.0f" a="1.0f"/>
+		<light>
+			<type>point</type>
+		</light>
+	</child>
+	<child>
+		<type>tree</type>
+		<position x="-4.26" y="0.00" z="1.94"/>
+		<scale x="1.00" y="1.00" z="1.00"/>
+		<rotation x="0.00" y="251.00" z="0.00"/>
+		<colour r="1.0f" g="1.0f" b="1.0f" a="1.0f"/>
+	</child>
+	<child>
+		<type>PlayerCursor</type>
+		<position x="-32.44" y="0.00" z="146.05"/>
+		<scale x="-0.00" y="-0.00" z="-0.00"/>
+		<rotation x="0.00" y="2.83" z="0.00"/>
+		<colour r="1.0f" g="1.0f" b="1.0f" a="1.0f"/>
+		<light>
+			<type>point</type>
+		</light>
+	</child>
+	<child>
+		<type>tree</type>
+		<position x="2.84" y="0.00" z="4.18"/>
+		<scale x="1.00" y="1.00" z="1.00"/>
+		<rotation x="0.00" y="1.40" z="0.00"/>
+		<colour r="1.0f" g="1.0f" b="1.0f" a="1.0f"/>
+	</child>
+	<child>
+		<type>chicken</type>
+		<position x="2.33" y="0.00" z="-10.00"/>
+		<scale x="1.00" y="1.00" z="1.00"/>
+		<rotation x="0.00" y="1.57" z="0.00"/>
+		<colour r="1.0f" g="1.0f" b="1.0f" a="1.0f"/>
+	</child>
+	<child>
+		<type>lamppost</type>
+		<position x="-1.10" y="0.00" z="0.09"/>
+		<scale x="1.00" y="1.00" z="1.00"/>
+		<rotation x="0.00" y="217.00" z="0.00"/>
+		<colour r="1.0f" g="1.0f" b="1.0f" a="1.0f"/>
+	</child>
+	<child>
+		<type>lamppost</type>
+		<position x="1.16" y="0.00" z="-0.89"/>
+		<scale x="1.00" y="1.00" z="1.00"/>
+		<rotation x="0.00" y="184.00" z="0.00"/>
+		<colour r="1.0f" g="1.0f" b="1.0f" a="1.0f"/>
+	</child>
+	<child>
+		<type>lamppost</type>
+		<position x="4.24" y="0.00" z="-1.06"/>
+		<scale x="1.00" y="1.00" z="1.00"/>
+		<rotation x="0.00" y="155.00" z="0.00"/>
+		<colour r="1.0f" g="1.0f" b="1.0f" a="1.0f"/>
+	</child>
+</level>
+

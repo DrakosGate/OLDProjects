@@ -1,0 +1,10 @@
+syntax: glob
+Obj
+*.sdf
+*.suo
+Bin/OpenGL Test.pdb
+Bin/OpenGL Test.iobj
+Bin/OpenGL Test.ipdb
+Test/OpenGL Test.exe
+Test/OpenGL Test.ilk
+Test/OpenGL Test.pdb

@@ -1,0 +1,53 @@
+﻿Build started 29/11/2015 12:39:45 p.m..
+     1>Project "C:\Users\Christopher\Desktop\OpenGL\OpenGL Test\OpenGL Test.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"..\Obj\Debug\\" /Fd"..\Obj\Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt animatedmodel.cpp boundingbox.cpp camera.cpp clock.cpp consolewindow.cpp gameobject.cpp glextensions.cpp inputmanager.cpp level.cpp lodepng.cpp main.cpp mathlibrary.cpp model.cpp openglrenderer.cpp renderablecomponent.cpp resourcemanager.cpp shader.cpp texture.cpp transformcomponent.cpp window.cpp
+         window.cpp
+     1>c:\users\christopher\desktop\opengl\opengl test\window.cpp(179): warning C4316: 'OpenGLRenderer' : object allocated on the heap may not be aligned 16
+         transformcomponent.cpp
+         texture.cpp
+         shader.cpp
+         resourcemanager.cpp
+         renderablecomponent.cpp
+         openglrenderer.cpp
+         model.cpp
+         mathlibrary.cpp
+         main.cpp
+         lodepng.cpp
+         level.cpp
+         inputmanager.cpp
+         glextensions.cpp
+         gameobject.cpp
+         consolewindow.cpp
+         clock.cpp
+         camera.cpp
+         boundingbox.cpp
+         animatedmodel.cpp
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"..\Test\OpenGL Test.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Users\user\Desktop\OpenGL Framework\Bin\glew-1.10.0\lib\Release\Win32" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"..\Test\OpenGL Test.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"..\Test\OpenGL Test.lib" /MACHINE:X86 ..\Obj\Debug\animatedmodel.obj
+         ..\Obj\Debug\boundingbox.obj
+         ..\Obj\Debug\camera.obj
+         ..\Obj\Debug\clock.obj
+         ..\Obj\Debug\consolewindow.obj
+         ..\Obj\Debug\gameobject.obj
+         ..\Obj\Debug\glextensions.obj
+         ..\Obj\Debug\inputmanager.obj
+         ..\Obj\Debug\level.obj
+         ..\Obj\Debug\lodepng.obj
+         ..\Obj\Debug\main.obj
+         ..\Obj\Debug\mathlibrary.obj
+         ..\Obj\Debug\model.obj
+         ..\Obj\Debug\openglrenderer.obj
+         ..\Obj\Debug\renderablecomponent.obj
+         ..\Obj\Debug\resourcemanager.obj
+         ..\Obj\Debug\shader.obj
+         ..\Obj\Debug\texture.obj
+         ..\Obj\Debug\transformcomponent.obj
+         ..\Obj\Debug\window.obj
+         OpenGL Test.vcxproj -> C:\Users\Christopher\Desktop\OpenGL\OpenGL Test\..\Test\OpenGL Test.exe
+     1>Done Building Project "C:\Users\Christopher\Desktop\OpenGL\OpenGL Test\OpenGL Test.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:19.17
